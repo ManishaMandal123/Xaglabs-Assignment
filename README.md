@@ -1,12 +1,15 @@
-<<<<<<< HEAD
-# Xaglabs-Assignment
-=======
-# React + Vite
+# Vite + React Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a React project powered by [Vite](https://vitejs.dev/) as the build tool. It is a fast and optimized way to develop React applications.
 
-Currently, two official plugins are available:
+## Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> 1205761 (file added)
+You can view the live demo of the project here:
+
+[Live Demo](https://xaglabs-assignment.vercel.app/)
+
+# Installation 
+Clone the repo.
+then type npm i 
+for running the code locally type npm run dev
+
