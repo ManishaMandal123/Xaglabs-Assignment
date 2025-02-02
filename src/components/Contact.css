@@ -1,0 +1,22 @@
+
+  
+  /* Main Content */
+  main {
+    margin-top:0;
+    padding: 157px;
+    height: 35vh;
+    background: linear-gradient(to right, #a02626, orange);
+    color: white;
+    flex-grow: 1;
+  }
+  
+  h2 {
+    font-size: 48px;
+    margin-bottom: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  
+  p {
+    max-width: 600px;
+    line-height: 1.6;
+  }

@@ -1,0 +1,65 @@
+.team-section {
+    text-align: center;
+    padding: 40px;
+    background: white;
+    justify-content: space-between;
+    
+  }
+
+  .team-section p{
+    text-align: center;
+    background: white;
+    padding: 7px 170px;
+    font-size: 1rem;
+    margin-bottom: 10px;
+    text-align: justify;
+    line-height: 1.8;
+    color: #413a3a;
+    
+  }
+
+  .team-section h2{
+    font-size: 2.5rem;
+    text-align: justify;
+    font-weight: bold;
+    color: #222;
+    padding: 10px 170px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  
+  .team-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin-top: 10px;
+  }
+
+  .team-member {
+    background-color: white;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    width: 17%; /* Adjust based on desired spacing */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  
+  .team-member img {
+    width: 100%;
+    border-radius: 8px;
+
+  }
+  
+  .team-member h3 {
+    margin: 180px 0 5px;
+    font-size: 18px;
+  }
+  
+  .team-member p {
+    color: gray;
+  }
+  
